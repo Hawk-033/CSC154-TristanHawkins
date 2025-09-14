@@ -1,2 +1,2 @@
 # CSC154-TristanHawkins
-Welcome to Branch2!
+Wecome to Branch1 Welcome to Branch2!
